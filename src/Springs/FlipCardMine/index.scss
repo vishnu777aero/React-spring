@@ -1,0 +1,11 @@
+.flip-card {
+    height: 50vh;
+    width: 75vw;
+    background-color: #dbdbdb;
+    will-change: transform;
+    user-select: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
